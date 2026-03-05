@@ -1,0 +1,624 @@
+[
+  {
+    "OL6942950M": {
+      "url": "https://openlibrary.org/books/OL6942950M/Vital_records_of_Middleton_Massachusetts_to_the_end_of_the_year_1849.",
+      "key": "/books/OL6942950M",
+      "title": "Vital records of Middleton, Massachusetts, to the end of the year 1849.",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL2506420A/Middleton_(Mass.)",
+          "name": "Middleton (Mass.)"
+        }
+      ],
+      "number_of_pages": 143,
+      "pagination": "143 p.",
+      "identifiers": {
+        "lccn": [
+          "04018522"
+        ],
+        "oclc": [
+          "2698536"
+        ],
+        "openlibrary": [
+          "OL6942950M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "F74.M63 M6"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Topsfield historical society"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "Topsfield, Mass"
+        }
+      ],
+      "publish_date": "1904",
+      "subjects": [
+        {
+          "name": "Registers of births",
+          "url": "https://openlibrary.org/subjects/registers_of_births"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Mass Middletown",
+          "url": "https://openlibrary.org/subjects/place:mass_middletown"
+        }
+      ],
+      "notes": "Compiled by George Francis Dow.\nAn alphabetic index to the manuscript records of the town, supplemented by information from church registers, cemetery inscriptions and other sources.",
+      "ebooks": [
+        {
+          "preview_url": "https://archive.org/details/vitalrecordsofmi01midda",
+          "availability": "full",
+          "formats": {
+            "pdf": {
+              "url": "https://archive.org/download/vitalrecordsofmi01midda/vitalrecordsofmi01midda.pdf"
+            },
+            "epub": {
+              "url": "https://archive.org/download/vitalrecordsofmi01midda/vitalrecordsofmi01midda.epub"
+            },
+            "text": {
+              "url": "https://archive.org/download/vitalrecordsofmi01midda/vitalrecordsofmi01midda_djvu.txt"
+            }
+          },
+          "read_url": "https://archive.org/stream/vitalrecordsofmi01midda"
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/5866968-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/5866968-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/5866968-L.jpg"
+      }
+    }
+  },
+  {
+    "OL6971930M": {
+      "url": "https://openlibrary.org/books/OL6971930M/Historic_towns_of_the_Connecticut_River_Valley",
+      "key": "/books/OL6971930M",
+      "title": "Historic towns of the Connecticut River Valley",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL2515664A/George_S._Roberts",
+          "name": "George S. Roberts"
+        }
+      ],
+      "number_of_pages": 494,
+      "pagination": "vii, 494 p. :",
+      "by_statement": "by George S. Roberts.",
+      "identifiers": {
+        "lccn": [
+          "06024568"
+        ],
+        "oclc": [
+          "1612477"
+        ],
+        "openlibrary": [
+          "OL6971930M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "F12.C7 R6"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Robson & Adee"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "Schenectady, N.Y"
+        }
+      ],
+      "publish_date": "1906",
+      "subjects": [
+        {
+          "name": "History",
+          "url": "https://openlibrary.org/subjects/history"
+        },
+        {
+          "name": "Connecticut river and valley",
+          "url": "https://openlibrary.org/subjects/connecticut_river_and_valley"
+        },
+        {
+          "name": "Connecticut, genealogy",
+          "url": "https://openlibrary.org/subjects/connecticut,_genealogy"
+        },
+        {
+          "name": "Connecticut, history",
+          "url": "https://openlibrary.org/subjects/connecticut,_history"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Connecticut River Valley",
+          "url": "https://openlibrary.org/subjects/place:connecticut_river_valley"
+        }
+      ],
+      "notes": "Includes index."
+    }
+  },
+  {
+    "OL25148858M": {
+      "url": "https://openlibrary.org/books/OL25148858M/How_does_it_fly",
+      "key": "/books/OL25148858M",
+      "title": "How does it fly?",
+      "subtitle": "Glider",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL19654A/Nancy_Robinson_Masters",
+          "name": "Nancy Robinson Masters"
+        }
+      ],
+      "pagination": "p. cm.",
+      "by_statement": "by Nancy Robinson Masters",
+      "identifiers": {
+        "isbn_10": [
+          "1610800729"
+        ],
+        "isbn_13": [
+          "9781610800723"
+        ],
+        "lccn": [
+          "2011000270"
+        ],
+        "openlibrary": [
+          "OL25148858M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "TL761 .M37 2011",
+          "TL761 .M37 2012",
+          "TL761.M37 2011"
+        ],
+        "dewey_decimal_class": [
+          "629.133/33"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Cherry Lake Pub."
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "Ann Arbor, Mich"
+        }
+      ],
+      "publish_date": "2011",
+      "subjects": [
+        {
+          "name": "Gliders (Aeronautics)",
+          "url": "https://openlibrary.org/subjects/gliders_(aeronautics)"
+        },
+        {
+          "name": "Gliding and soaring",
+          "url": "https://openlibrary.org/subjects/gliding_and_soaring"
+        },
+        {
+          "name": "Juvenile literature",
+          "url": "https://openlibrary.org/subjects/juvenile_literature"
+        },
+        {
+          "name": "Gliders (aeronautics)",
+          "url": "https://openlibrary.org/subjects/gliders_(aeronautics)"
+        },
+        {
+          "name": "Aeronautics, juvenile literature",
+          "url": "https://openlibrary.org/subjects/aeronautics,_juvenile_literature"
+        }
+      ],
+      "notes": "Includes bibliographical references and index.",
+      "ebooks": [
+        {
+          "preview_url": "https://archive.org/details/glider0000mast",
+          "availability": "borrow",
+          "formats": {},
+          "borrow_url": "https://openlibrary.org/books/OL25148858M/How_does_it_fly/borrow",
+          "checkedout": false
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/11638173-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/11638173-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/11638173-L.jpg"
+      }
+    }
+  },
+  {
+    "OL27313706M": {
+      "url": "https://openlibrary.org/books/OL27313706M/Yi_sheng_de_ji_hua",
+      "key": "/books/OL27313706M",
+      "title": "Yi sheng de ji hua",
+      "subtitle": "ru he zhuo you cheng xiao de shu li mu biao he zhi ding ji hua",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL451050A/Glenn_Bland",
+          "name": "Glenn Bland"
+        }
+      ],
+      "number_of_pages": 192,
+      "pagination": "2, 192 pages",
+      "by_statement": "Gelaien Bulande ; fan yi Li Zi, Luo Kun ; shen jiao Luo Jian",
+      "identifiers": {
+        "isbn_10": [
+          "750115645X"
+        ],
+        "isbn_13": [
+          "9787501156450"
+        ],
+        "oclc": [
+          "59552943"
+        ],
+        "openlibrary": [
+          "OL27313706M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "BJ1611.2 .B52125 2002"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Xin hua chu ban she"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "Beijing"
+        }
+      ],
+      "publish_date": "2002",
+      "subjects": [
+        {
+          "name": "Success",
+          "url": "https://openlibrary.org/subjects/success"
+        }
+      ],
+      "ebooks": [
+        {
+          "preview_url": "https://archive.org/details/yishengdejihuaru0000blan",
+          "availability": "borrow",
+          "formats": {},
+          "borrow_url": "https://openlibrary.org/books/OL27313706M/Yi_sheng_de_ji_hua/borrow",
+          "checkedout": false
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/8784658-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/8784658-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/8784658-L.jpg"
+      }
+    }
+  },
+  {
+    "OL7435969M": {
+      "url": "https://openlibrary.org/books/OL7435969M/Women_Love",
+      "key": "/books/OL7435969M",
+      "title": "Women & Love",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL397759A/Mira_Kirshenbaum",
+          "name": "Mira Kirshenbaum"
+        }
+      ],
+      "number_of_pages": 274,
+      "identifiers": {
+        "librarything": [
+          "1912410"
+        ],
+        "isbn_10": [
+          "0380976943"
+        ],
+        "isbn_13": [
+          "9780380976942"
+        ],
+        "lccn": [
+          "99020576"
+        ],
+        "oclc": [
+          "40869769"
+        ],
+        "openlibrary": [
+          "OL7435969M"
+        ]
+      },
+      "classifications": {
+        "lc_classifications": [
+          "HQ1410 .K57 1999",
+          "HQ1410.K57 1999"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "William Morrow & Company"
+        },
+        {
+          "name": "Avon Books"
+        }
+      ],
+      "publish_date": "June 8, 1999",
+      "subjects": [
+        {
+          "name": "Man-woman relationships",
+          "url": "https://openlibrary.org/subjects/man-woman_relationships"
+        },
+        {
+          "name": "Love",
+          "url": "https://openlibrary.org/subjects/love"
+        },
+        {
+          "name": "Psychology",
+          "url": "https://openlibrary.org/subjects/psychology"
+        },
+        {
+          "name": "Women",
+          "url": "https://openlibrary.org/subjects/women"
+        },
+        {
+          "name": "Women, conduct of life",
+          "url": "https://openlibrary.org/subjects/women,_conduct_of_life"
+        },
+        {
+          "name": "Women, sexual behavior",
+          "url": "https://openlibrary.org/subjects/women,_sexual_behavior"
+        }
+      ],
+      "excerpts": [
+        {
+          "text": "For the first time in the history of the world a generation of women has come of age that has the power to say No! to crummy love.",
+          "comment": "",
+          "first_sentence": true
+        },
+        {
+          "text": "For the first time in the history of the world a generation of women has come of age that has the power to say No! to crummy love.",
+          "comment": ""
+        }
+      ],
+      "ebooks": [
+        {
+          "preview_url": "https://archive.org/details/womenlove0000kirs",
+          "availability": "borrow",
+          "formats": {},
+          "borrow_url": "https://openlibrary.org/books/OL7435969M/Women_Love/borrow",
+          "checkedout": true
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/237817-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/237817-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/237817-L.jpg"
+      }
+    }
+  },
+  {
+    "OL25159038M": {
+      "url": "https://openlibrary.org/books/OL25159038M/Stern",
+      "key": "/books/OL25159038M",
+      "title": "Stern",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL113777A/H._D._(Henry_Duff)_Trail",
+          "name": "H. D. (Henry Duff) Trail"
+        }
+      ],
+      "number_of_pages": 323,
+      "pagination": "7 microfiches (323 fr.)",
+      "by_statement": "by H.D. Traill. Swift / by Leslie Stephen. Hume / by T.H. Huxley",
+      "identifiers": {
+        "isbn_10": [
+          "0665951469"
+        ],
+        "oclc": [
+          "243519478"
+        ],
+        "openlibrary": [
+          "OL25159038M"
+        ]
+      },
+      "classifications": {
+        "dewey_decimal_class": [
+          "823.6092"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Morang"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "Toronto"
+        }
+      ],
+      "publish_date": "1900",
+      "subjects": [
+        {
+          "name": "Biographies",
+          "url": "https://openlibrary.org/subjects/biographies"
+        },
+        {
+          "name": "Biography",
+          "url": "https://openlibrary.org/subjects/biography"
+        }
+      ],
+      "subject_people": [
+        {
+          "name": "Jonathan Swift (1667-1745)",
+          "url": "https://openlibrary.org/subjects/person:jonathan_swift_(1667-1745)"
+        },
+        {
+          "name": "David Hume (1711-1776)",
+          "url": "https://openlibrary.org/subjects/person:david_hume_(1711-1776)"
+        },
+        {
+          "name": "Laurence Sterne (1713-1768)",
+          "url": "https://openlibrary.org/subjects/person:laurence_sterne_(1713-1768)"
+        }
+      ],
+      "notes": "Original issued in series: English men of letters ; 8.\n\nFilmed from a copy of the original publication held by the Universit\u00e9 de Sherbrooke, Biblioth\u00e8que g\u00e9n\u00e9rale. Ottawa : Canadian Institute for Historical Microreproductions, 1999.\n\nviii, 173 ; vii, [2], 205 ; vi, [1], 206 p. : ports. ; 20 cm.",
+      "ebooks": [
+        {
+          "preview_url": "https://archive.org/details/cihm_95146",
+          "availability": "full",
+          "formats": {
+            "pdf": {
+              "url": "https://archive.org/download/cihm_95146/cihm_95146.pdf"
+            },
+            "epub": {
+              "url": "https://archive.org/download/cihm_95146/cihm_95146.epub"
+            },
+            "text": {
+              "url": "https://archive.org/download/cihm_95146/cihm_95146_djvu.txt"
+            }
+          },
+          "read_url": "https://archive.org/stream/cihm_95146"
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/7006290-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/7006290-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/7006290-L.jpg"
+      }
+    }
+  },
+  {
+    "OL25159039M": {
+      "url": "https://openlibrary.org/books/OL25159039M/An_index_of_repealed_and_repealing_statutes_affecting_principally_the_province_of_Ontario_intended_f",
+      "key": "/books/OL25159039M",
+      "title": "An index of repealed and repealing statutes, affecting principally the province of Ontario, intended for the use of members of the legal profession",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL7060940A/I._N._Winstanley",
+          "name": "I. N. Winstanley"
+        }
+      ],
+      "number_of_pages": 46,
+      "pagination": "1 microfiche (46 fr.)",
+      "by_statement": "by I.N. Winstanley",
+      "identifiers": {
+        "isbn_10": [
+          "0665951477"
+        ],
+        "oclc": [
+          "243522151"
+        ],
+        "openlibrary": [
+          "OL25159039M"
+        ]
+      },
+      "classifications": {
+        "dewey_decimal_class": [
+          "348.713028"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "H. Rowsell"
+        }
+      ],
+      "publish_places": [
+        {
+          "name": "Toronto"
+        }
+      ],
+      "publish_date": "1871",
+      "subjects": [
+        {
+          "name": "Index",
+          "url": "https://openlibrary.org/subjects/index"
+        },
+        {
+          "name": "Laws",
+          "url": "https://openlibrary.org/subjects/laws"
+        },
+        {
+          "name": "Droit",
+          "url": "https://openlibrary.org/subjects/droit"
+        },
+        {
+          "name": "Indexes",
+          "url": "https://openlibrary.org/subjects/indexes"
+        }
+      ],
+      "subject_places": [
+        {
+          "name": "Ontario",
+          "url": "https://openlibrary.org/subjects/place:ontario"
+        }
+      ],
+      "notes": "Photocopy.\n\nFilmed from a photocopy of the original publication held by York University, Law Library, Toronto. Ottawa : Canadian Institute for Historical Microreproductions, 1999.\n\n45 p. ; 25 cm.",
+      "ebooks": [
+        {
+          "preview_url": "https://archive.org/details/cihm_95147",
+          "availability": "full",
+          "formats": {
+            "pdf": {
+              "url": "https://archive.org/download/cihm_95147/cihm_95147.pdf"
+            },
+            "epub": {
+              "url": "https://archive.org/download/cihm_95147/cihm_95147.epub"
+            },
+            "text": {
+              "url": "https://archive.org/download/cihm_95147/cihm_95147_djvu.txt"
+            }
+          },
+          "read_url": "https://archive.org/stream/cihm_95147"
+        }
+      ],
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/7005083-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/7005083-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/7005083-L.jpg"
+      }
+    }
+  },
+  {
+    "OL7478381M": {
+      "url": "https://openlibrary.org/books/OL7478381M/Accuracy_in_Molecular_Processes_Its_Control_and_Relevance_to_Living_Systems",
+      "key": "/books/OL7478381M",
+      "title": "Accuracy in Molecular Processes:Its Control and Relevance to Living Systems",
+      "authors": [
+        {
+          "url": "https://openlibrary.org/authors/OL2692314A/B._Kirkwood",
+          "name": "B. Kirkwood"
+        }
+      ],
+      "number_of_pages": 398,
+      "identifiers": {
+        "goodreads": [
+          "5887080"
+        ],
+        "isbn_10": [
+          "0412269406"
+        ],
+        "isbn_13": [
+          "9780412269400"
+        ],
+        "openlibrary": [
+          "OL7478381M"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Springer"
+        }
+      ],
+      "publish_date": "June 19, 1986",
+      "cover": {
+        "small": "https://covers.openlibrary.org/b/id/4621241-S.jpg",
+        "medium": "https://covers.openlibrary.org/b/id/4621241-M.jpg",
+        "large": "https://covers.openlibrary.org/b/id/4621241-L.jpg"
+      }
+    }
+  }
+]

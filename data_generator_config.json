@@ -1,0 +1,245 @@
+{
+  "sources": {
+    "Wikipedia": {
+      "enabled": true,
+      "priority": 1,
+      "max_size_mb": 50,
+      "description": "Wikipedia article abstracts and summaries",
+      "license": "CC-BY-SA 3.0",
+      "url": "https://dumps.wikimedia.org/enwiki/latest/",
+      "modules": [
+        "brain",
+        "thinking",
+        "knowledge",
+        "agent",
+        "interface"
+      ]
+    },
+    "Common Crawl": {
+      "enabled": true,
+      "priority": 2,
+      "max_size_mb": 50,
+      "description": "Common Crawl CC0 licensed web data",
+      "license": "CC0",
+      "url": "https://commoncrawl.s3.amazonaws.com/",
+      "modules": [
+        "core",
+        "models",
+        "training"
+      ]
+    },
+    "Open Library": {
+      "enabled": true,
+      "priority": 3,
+      "max_size_mb": 50,
+      "description": "Open Library public domain books metadata",
+      "license": "CC0, CC-BY, etc.",
+      "url": "https://openlibrary.org/",
+      "modules": [
+        "thinking",
+        "knowledge",
+        "interface"
+      ]
+    },
+    "GitHub": {
+      "enabled": true,
+      "priority": 4,
+      "max_size_mb": 50,
+      "description": "GitHub public repositories and documentation",
+      "license": "Various OSS licenses",
+      "url": "https://github.com/",
+      "modules": [
+        "core",
+        "models",
+        "training",
+        "inference",
+        "agent",
+        "reasoning"
+      ]
+    },
+    "ArXiv": {
+      "enabled": true,
+      "priority": 5,
+      "max_size_mb": 50,
+      "description": "ArXiv open access research papers",
+      "license": "Authors' copyrights, open access",
+      "url": "https://arxiv.org/",
+      "modules": [
+        "brain",
+        "reasoning",
+        "models",
+        "training",
+        "inference"
+      ]
+    },
+    "Project Gutenberg": {
+      "enabled": true,
+      "priority": 6,
+      "max_size_mb": 50,
+      "description": "Project Gutenberg public domain books",
+      "license": "Public Domain",
+      "url": "https://www.gutenberg.org/",
+      "modules": [
+        "thinking",
+        "knowledge",
+        "memory"
+      ]
+    }
+  },
+  "modules": {
+    "brain": {
+      "description": "Consciousness and meta-reasoning module",
+      "target_size_mb": 50,
+      "data_types": [
+        "text",
+        "metadata"
+      ],
+      "required_sources": []
+    },
+    "reasoning": {
+      "description": "Advanced reasoning engines",
+      "target_size_mb": 50,
+      "data_types": [
+        "text",
+        "code",
+        "metadata"
+      ],
+      "required_sources": []
+    },
+    "thinking": {
+      "description": "Higher-level cognitive processes",
+      "target_size_mb": 50,
+      "data_types": [
+        "text",
+        "philosophy",
+        "psychology"
+      ],
+      "required_sources": []
+    },
+    "knowledge": {
+      "description": "Knowledge representation and storage",
+      "target_size_mb": 50,
+      "data_types": [
+        "text",
+        "structured data"
+      ],
+      "required_sources": []
+    },
+    "memory": {
+      "description": "Memory systems for agents",
+      "target_size_mb": 50,
+      "data_types": [
+        "text",
+        "code"
+      ],
+      "required_sources": []
+    },
+    "core": {
+      "description": "Core tensor and mathematical operations",
+      "target_size_mb": 50,
+      "data_types": [
+        "code",
+        "research papers"
+      ],
+      "required_sources": []
+    },
+    "models": {
+      "description": "ML models and architectures",
+      "target_size_mb": 50,
+      "data_types": [
+        "code",
+        "research papers",
+        "documentation"
+      ],
+      "required_sources": []
+    },
+    "training": {
+      "description": "Training utilities and algorithms",
+      "target_size_mb": 50,
+      "data_types": [
+        "code",
+        "research papers"
+      ],
+      "required_sources": []
+    },
+    "inference": {
+      "description": "Inference engines and generation",
+      "target_size_mb": 50,
+      "data_types": [
+        "code",
+        "documentation"
+      ],
+      "required_sources": []
+    },
+    "agent": {
+      "description": "Autonomous agent architecture",
+      "target_size_mb": 50,
+      "data_types": [
+        "text",
+        "code"
+      ],
+      "required_sources": []
+    },
+    "interface": {
+      "description": "CLI and user interfaces",
+      "target_size_mb": 50,
+      "data_types": [
+        "code",
+        "documentation"
+      ],
+      "required_sources": []
+    }
+  },
+  "generation_modes": {
+    "fast": {
+      "description": "Fast generation (GitHub and ArXiv only)",
+      "timeout": 10,
+      "sources": [
+        "GitHub",
+        "ArXiv"
+      ],
+      "verify_integrity": false
+    },
+    "balanced": {
+      "description": "Balanced generation (all sources)",
+      "timeout": 30,
+      "sources": [
+        "Wikipedia",
+        "Common Crawl",
+        "Open Library",
+        "GitHub",
+        "ArXiv",
+        "Project Gutenberg"
+      ],
+      "verify_integrity": true
+    },
+    "thorough": {
+      "description": "Thorough generation with full validation",
+      "timeout": 60,
+      "sources": [
+        "Wikipedia",
+        "Common Crawl",
+        "Open Library",
+        "GitHub",
+        "ArXiv",
+        "Project Gutenberg"
+      ],
+      "verify_integrity": true,
+      "retry_count": 3
+    }
+  },
+  "total_capacity_mb": 550,
+  "target_modules": [
+    "brain",
+    "reasoning",
+    "thinking",
+    "knowledge",
+    "memory",
+    "core",
+    "models",
+    "training",
+    "inference",
+    "agent",
+    "interface"
+  ]
+}

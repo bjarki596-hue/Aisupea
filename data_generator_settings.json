@@ -1,0 +1,11 @@
+{
+  "mode": "balanced",
+  "data_path": "./aisupea_data",
+  "force_update": false,
+  "parallel_downloads": 3,
+  "verify_integrity": true,
+  "cleanup_after": false,
+  "max_retries": 2,
+  "timeout": 30,
+  "verbose": true
+}

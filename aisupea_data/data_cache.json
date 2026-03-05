@@ -1,0 +1,168 @@
+{
+  "modules": {
+    "agent": {
+      "size": 51497,
+      "files": [
+        {
+          "name": "arxiv_data.json",
+          "size": 51497,
+          "hash": "50b867db13f1dd99367c90e875bd0c1c1b5d01b5375e1c345e402ef12653d603",
+          "source": "ArXiv"
+        }
+      ],
+      "created": "2026-03-05T12:26:29.522886",
+      "description": "Dataset for agent module"
+    },
+    "brain": {
+      "size": 51497,
+      "files": [
+        {
+          "name": "arxiv_data.json",
+          "size": 51497,
+          "hash": "50b867db13f1dd99367c90e875bd0c1c1b5d01b5375e1c345e402ef12653d603",
+          "source": "ArXiv"
+        }
+      ],
+      "created": "2026-03-05T12:26:34.856180",
+      "description": "Dataset for brain module"
+    },
+    "core": {
+      "size": 89162,
+      "files": [
+        {
+          "name": "arxiv_data.json",
+          "size": 51497,
+          "hash": "50b867db13f1dd99367c90e875bd0c1c1b5d01b5375e1c345e402ef12653d603",
+          "source": "ArXiv"
+        },
+        {
+          "name": "github_data.json",
+          "size": 37665,
+          "hash": "7ca82dd88019b135f83cd46cd1c935201b8594ea0c7450cdb43da1f741ea49ce",
+          "source": "GitHub"
+        }
+      ],
+      "created": "2026-03-05T12:26:43.446377",
+      "description": "Dataset for core module"
+    },
+    "inference": {
+      "size": 55917,
+      "files": [
+        {
+          "name": "github_data.json",
+          "size": 37665,
+          "hash": "7ca82dd88019b135f83cd46cd1c935201b8594ea0c7450cdb43da1f741ea49ce",
+          "source": "GitHub"
+        },
+        {
+          "name": "open_library_data.json",
+          "size": 18252,
+          "hash": "fa60422f413b7fb718c6505b0fdf0abb6c9f40955a749441c3233b74e4406861",
+          "source": "Open Library"
+        }
+      ],
+      "created": "2026-03-05T12:26:55.128227",
+      "description": "Dataset for inference module"
+    },
+    "interface": {
+      "size": 37665,
+      "files": [
+        {
+          "name": "github_data.json",
+          "size": 37665,
+          "hash": "7ca82dd88019b135f83cd46cd1c935201b8594ea0c7450cdb43da1f741ea49ce",
+          "source": "GitHub"
+        }
+      ],
+      "created": "2026-03-05T12:26:57.958199",
+      "description": "Dataset for interface module"
+    },
+    "knowledge": {
+      "size": 20706,
+      "files": [
+        {
+          "name": "project_gutenberg_data.json",
+          "size": 20706,
+          "hash": "c80fe8b1d27c9848383105769bb1e72036962726d98c657ccf3258c83cd3cef1",
+          "source": "Project Gutenberg"
+        }
+      ],
+      "created": "2026-03-05T12:27:05.210420",
+      "description": "Dataset for knowledge module"
+    },
+    "memory": {
+      "size": 55917,
+      "files": [
+        {
+          "name": "github_data.json",
+          "size": 37665,
+          "hash": "7ca82dd88019b135f83cd46cd1c935201b8594ea0c7450cdb43da1f741ea49ce",
+          "source": "GitHub"
+        },
+        {
+          "name": "open_library_data.json",
+          "size": 18252,
+          "hash": "fa60422f413b7fb718c6505b0fdf0abb6c9f40955a749441c3233b74e4406861",
+          "source": "Open Library"
+        }
+      ],
+      "created": "2026-03-05T12:27:18.275147",
+      "description": "Dataset for memory module"
+    },
+    "models": {
+      "size": 51497,
+      "files": [
+        {
+          "name": "arxiv_data.json",
+          "size": 51497,
+          "hash": "50b867db13f1dd99367c90e875bd0c1c1b5d01b5375e1c345e402ef12653d603",
+          "source": "ArXiv"
+        }
+      ],
+      "created": "2026-03-05T12:27:23.416527",
+      "description": "Dataset for models module"
+    },
+    "reasoning": {
+      "size": 51497,
+      "files": [
+        {
+          "name": "arxiv_data.json",
+          "size": 51497,
+          "hash": "50b867db13f1dd99367c90e875bd0c1c1b5d01b5375e1c345e402ef12653d603",
+          "source": "ArXiv"
+        }
+      ],
+      "created": "2026-03-05T12:27:28.925790",
+      "description": "Dataset for reasoning module"
+    },
+    "thinking": {
+      "size": 18252,
+      "files": [
+        {
+          "name": "open_library_data.json",
+          "size": 18252,
+          "hash": "fa60422f413b7fb718c6505b0fdf0abb6c9f40955a749441c3233b74e4406861",
+          "source": "Open Library"
+        }
+      ],
+      "created": "2026-03-05T12:27:36.952485",
+      "description": "Dataset for thinking module"
+    },
+    "training": {
+      "size": 51497,
+      "files": [
+        {
+          "name": "arxiv_data.json",
+          "size": 51497,
+          "hash": "50b867db13f1dd99367c90e875bd0c1c1b5d01b5375e1c345e402ef12653d603",
+          "source": "ArXiv"
+        }
+      ],
+      "created": "2026-03-05T12:27:42.115175",
+      "description": "Dataset for training module"
+    }
+  },
+  "sources": {},
+  "total_size": 0,
+  "last_updated": "2026-03-05T12:27:42.115187"
+}
